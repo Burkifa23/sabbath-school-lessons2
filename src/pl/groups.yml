@@ -1,0 +1,7 @@
+---
+  default:
+    name: "Dorosły"
+    order: 100
+  rt:
+    name: "Młodzież"
+    order: 200
